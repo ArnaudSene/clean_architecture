@@ -2,8 +2,9 @@
 
 import typing as _t
 
-import antidote_dp.applications.nas_open_share_exception as _a_nose
-import antidote_dp.domains.nas_open_share_exception as _d_nose
+import applications.nas_open_share_exception as _a_nose
+import domains.nas_open_share_exception as _d_nose
+import providers.nas_open_share_exception
 
 
 def main():

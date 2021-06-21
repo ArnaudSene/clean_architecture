@@ -8,8 +8,8 @@ import typing as _t
 
 import antidote as _antidote
 
-import antidote_dp.domains.nas_open_share_exception as _d_nose
-import antidote_dp.interfaces.nas_open_share_exception as _i_node
+import domains.nas_open_share_exception as _d_nose
+import interfaces.nas_open_share_exception as _i_node
 
 
 class ReadNASOpenShareException:

@@ -7,7 +7,7 @@ Support:
 import abc as _abc
 import typing as _t
 
-import antidote_dp.domains.nas_open_share_exception as _d_nose
+import domains.nas_open_share_exception as _d_nose
 
 
 class NASOpenShareException(_abc.ABC):
